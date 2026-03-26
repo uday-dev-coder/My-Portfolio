@@ -10,5 +10,5 @@ This folder contains my verified achievements and internship certificates.
 - **Issued by:** Future Interns  
 - **Duration:** Feb 2026 – Mar 2026  
 - **Description:** Completed a 1-month internship focused on full stack development, working with frontend and backend technologies, and building real-world projects.
-
+- 📄 **Certificate:** [View Here](https://github.com/uday-dev-coder/My-Portfolio/blob/main/certificates/uday-fullstack-internship-certificate.pdf)
 ---
